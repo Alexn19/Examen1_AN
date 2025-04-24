@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\bin\Debug\net8.0\P1_AlexandraNoriega.exe
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\bin\Debug\net8.0\P1_AlexandraNoriega.deps.json
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\bin\Debug\net8.0\P1_AlexandraNoriega.runtimeconfig.json
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\bin\Debug\net8.0\P1_AlexandraNoriega.dll
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\bin\Debug\net8.0\P1_AlexandraNoriega.pdb
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\obj\Debug\net8.0\P1_AlexandraNoriega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\obj\Debug\net8.0\P1_AlexandraNoriega.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\obj\Debug\net8.0\P1_AlexandraNoriega.AssemblyInfo.cs
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\obj\Debug\net8.0\P1_AlexandraNoriega.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\obj\Debug\net8.0\P1_AlexandraNoriega.dll
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\obj\Debug\net8.0\refint\P1_AlexandraNoriega.dll
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\obj\Debug\net8.0\P1_AlexandraNoriega.pdb
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\obj\Debug\net8.0\P1_AlexandraNoriega.genruntimeconfig.cache
+C:\Users\USUARIO\Escritorio\Progra final\P1_AlexandraNoriega\P1_AlexandraNoriega\obj\Debug\net8.0\ref\P1_AlexandraNoriega.dll
